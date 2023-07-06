@@ -1,0 +1,1 @@
+1.create a dataFrame with two columns and calculate sum by adding all rows of one column then divide the first column by that sum.
